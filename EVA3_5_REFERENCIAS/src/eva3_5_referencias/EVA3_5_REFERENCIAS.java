@@ -26,7 +26,7 @@ public class EVA3_5_REFERENCIAS {
         VALOR(COSAS QUE NO SON OPJETOS) 
                 -NO PASA NADA, SEGURO MODIFICAR
                 - SE MANDA UNA COPIA DEL VALOR
-        REFERENCIA (OBJETOS) 
+        REFERENCIA (OBJETOS) (ej arryas, string)
             - SE MANDA LA DIRECCION DEL OBJETO
             -CUIDADO, SE PUEDEN MODIFICAR LOS ORIGINALES
     */
